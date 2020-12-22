@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
             children: [
               comp.myAvatar(),
               comp.myText("Zegnani ALA", comp.myStyle),
-              comp.myText("Best Mobile Developer", comp.myStyle),
+              comp.myText("The Best Mobile Developer", comp.myStyle),
               comp.myDivider(),
               comp.myCard("+216 50 000 00", Icons.phone, 26),
               comp.myCard("ala.zegnani@email.com", Icons.email, 26),
